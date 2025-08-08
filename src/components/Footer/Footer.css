@@ -1,0 +1,202 @@
+.footer-area .footer-widget {
+    padding-top: 130px;
+}
+
+.footer-area .footer-widget .widget h4.widget-title {
+    color: #fff;
+    margin-bottom: 45px;
+}
+
+.footer-area .footer-widget .widget p {
+    color: #e1e1e1;
+}
+
+.footer-area .footer-widget .widget.about-widget img {
+    margin-bottom: 40px;
+    margin-top: -14px;
+}
+
+.footer-area .footer-widget .widget.about-widget p {
+    margin-bottom: 35px;
+}
+
+.footer-area .footer-widget .widget.about-widget ul.social-link li {
+    margin-right: 5px;
+}
+
+.footer-area .footer-widget .widget.about-widget ul.social-link li a {
+    width: 37px;
+    height: 37px;
+    display: block;
+    line-height: 37px;
+    text-align: center;
+    border: 1px solid #d9d9d9;
+    border-radius: 50%;
+    font-size: 12px;
+    color: #fff;
+    -webkit-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+}
+
+.footer-area .footer-widget .widget.about-widget ul.social-link li a:hover,
+.footer-area .footer-widget .widget.about-widget ul.social-link li a:focus {
+    background-color: #f9580e;
+    color: #fff;
+    border-color: transparent;
+}
+
+.footer-area .footer-widget .widget.widget-categories {
+    padding-left: 70px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .footer-area .footer-widget .widget.widget-categories {
+        padding-left: 0px;
+    }
+}
+
+@media (max-width: 991px) {
+    .footer-area .footer-widget .widget.widget-categories {
+        padding-left: 0px;
+    }
+}
+
+.footer-area .footer-widget .widget.widget-categories ul.widget-link li {
+    padding-bottom: 10px;
+}
+
+.footer-area .footer-widget .widget.widget-categories ul.widget-link li a {
+    color: #e1e1e1;
+}
+
+.footer-area .footer-widget .widget.newsletter-widget .newsletter-form .form_group .form_control {
+    background-color: #fff;
+    border: none;
+    height: 55px;
+    border-radius: 5px;
+}
+
+.footer-area .footer-widget .widget.newsletter-widget .newsletter-form .form_group .newsletter-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    line-height: 55px;
+    background-color: #0e31f9;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.footer-area .footer-widget .widget.newsletter-widget .newsletter-info h5 {
+    color: #fff;
+    margin-bottom: 8px;
+}
+
+.footer-area .footer-widget .widget.newsletter-widget .newsletter-info p {
+    color: #e1e1e1;
+}
+
+.footer-area .footer-widget .widget.instragram-widget {
+    padding-left: 70px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .footer-area .footer-widget .widget.instragram-widget {
+        padding-left: 0px;
+    }
+}
+
+@media (max-width: 991px) {
+    .footer-area .footer-widget .widget.instragram-widget {
+        padding-left: 0px;
+    }
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -4px;
+    margin-right: -4px;
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list li {
+    padding-left: 4px;
+    padding-right: 4px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.33%;
+    flex: 0 0 33.33%;
+    margin-bottom: 10px;
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list li a {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list li a:hover .insta-overlay {
+    visibility: visible;
+    opacity: 1;
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list li a img {
+    width: 61px;
+    height: 61px;
+    border-radius: 5px;
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list li a .insta-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0e39f9;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    visibility: hidden;
+    border-radius: 5px;
+    opacity: 0;
+    -webkit-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+}
+
+.footer-area .footer-widget .widget.instragram-widget ul.instagram-list li a .insta-overlay i {
+    color: #fff;
+}
+
+.footer-area .copyright-area {
+    background-color: #303030;
+    padding: 16px 0 21px;
+}
+
+.footer-area .copyright-area .copyright-text p {
+    color: #f0efef;
+}
+
+.footer-area .copyright-area .copyright-text p span {
+    color: #0e60f9;
+}
+
+.footer-area-v1 {
+    background-color: #282828;
+}
+
+.logo-footer {
+    width: 80px;
+}
